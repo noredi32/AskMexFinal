@@ -22,4 +22,4 @@ Se intento realizar una aplicación en react native con los conocimientos adquir
 
 ### [Descarga de Expo para visualizar app](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=es_MX&gl=US)
 
-### [Deploy de App](https://expo.dev/@noredi32/askmex)
+### [Deploy de App](https://expo.dev/@noredi32/askmex) target="\_blank"
