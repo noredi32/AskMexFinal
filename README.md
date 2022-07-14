@@ -10,7 +10,7 @@ Repositorios
 
 ### [Repositorio de Back End](https://github.com/noredi32/api)
 
-### [Deploy de Back End](https://askmexapi.herokuapp.com)
+### [Deploy de Back End](https://askmexapi.herokuapp.com/)
 
 ### [Repositorio de Front End](https://github.com/noredi32/askmex)
 
